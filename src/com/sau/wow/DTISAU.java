@@ -10,7 +10,7 @@ public class DTISAU {
 
     //method member การทำงาน
     public void showHi(){
-        System.out.println("Hi...");
+        System.out.println("Hi.ssss..");
     }
     public void calAndshowage(){
         age = 2568 - Birthyear;
