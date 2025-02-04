@@ -4,7 +4,7 @@ public class DTISAU {
     //data member ตัวข้อมูล
     String name;
     int Birthyear;
-    int age = 0;
+    int age ;
     double high = 100;
 
 
